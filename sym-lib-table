@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name carte_io_2019_stm32f103-rescue)(type Legacy)(uri ${KIPRJMOD}/carte_io_2019_stm32f103-rescue.lib)(options " pwr_sym_only")(descr ""))
+)
