@@ -1,8 +1,8 @@
 (export (version D)
   (design
-    (source /home/robot/Desktop/carte_io_2020_stm32f103/carte_io_2020_stm32f103.sch)
-    (date "lun. 02 mars 2020 15:57:41 CET")
-    (tool "Eeschema 5.0.2-bee76a0~70~ubuntu18.04.1")
+    (source "C:\\Users\\Club Robot\\Desktop\\ElecHard\\carte_io_2020_stm32f103\\carte_io_2020_stm32f103.sch")
+    (date "02/03/2020 16:39:16")
+    (tool "Eeschema (5.1.4)-1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
         (title "Carte IO 2020")
@@ -425,15 +425,15 @@
         (pin (num 3) (name VO) (type power_out)))))
   (libraries
     (library (logical @Robot)
-      (uri /home/robot/Desktop/Code1819/libkicad-robot/@Robot_symbols/@Robot.lib))
+      (uri "C:\\Users\\Club Robot\\Desktop\\ElecHard\\libkicad-robot\\@Robot_symbols\\@Robot.lib"))
     (library (logical Connector)
-      (uri /usr/share/kicad/library/Connector.lib))
+      (uri "C:\\Users\\Club Robot\\Desktop\\ElecHard\\kicad-symbols-master\\kicad-symbols-master\\Connector.lib"))
     (library (logical Connector_Generic)
-      (uri /usr/share/kicad/library/Connector_Generic.lib))
+      (uri "C:\\Users\\Club Robot\\Desktop\\ElecHard\\kicad-symbols-master\\kicad-symbols-master\\Connector_Generic.lib"))
     (library (logical Device)
-      (uri /usr/share/kicad/library/Device.lib))
+      (uri "C:\\Users\\Club Robot\\Desktop\\ElecHard\\kicad-symbols-master\\kicad-symbols-master\\Device.lib"))
     (library (logical Regulator_Linear)
-      (uri /usr/share/kicad/library/Regulator_Linear.lib)))
+      (uri "C:\\Users\\Club Robot\\Desktop\\ElecHard\\kicad-symbols-master\\kicad-symbols-master\\Regulator_Linear.lib")))
   (nets
     (net (code 1) (name /fin_course_2)
       (node (ref R_F2) (pin 1))
